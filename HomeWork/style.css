@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+font-face {
+    font-family: "Beka";
+    src: url(Fonts/beka.ttf);
+}
+
+body{
+    font-family: "Beka";
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.Tavi{
+    
+}
+
+li{
+    text-align: center;
+    display: inline;
+    letter-spacing: 2px;
+}
+
+.container{
+    max-width: 900px;
+    margin: auto;
+    padding: 25px;
+}
+
+.container img{
+    max-width: 150px;
+    margin-top: -80px;
+}
+
+.First{
+    color: red;
+    padding: 100px;
+    text-align: center;
+}
+
+.image-section{
+    max-width: 1500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.image-section img{
+    width: 600px;
+    margin-top: -25px;
+}
