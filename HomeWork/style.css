@@ -12,12 +12,25 @@ body{
     font-family: "Beka";
 }
 
-header{
+.first-tavi{
     background-color: bisque;
     text-align: center;
     padding: 15px;
 }
 
+.second-tavi{
+    text-align: center;
+    padding: 15px;
+}
+
+.misalmeba{
+    text-align: center;
+    margin-top: -25px;
+}
+
+.misalmeba img{
+    margin-top: 0;
+}
 
 .Tavi{
     
@@ -55,4 +68,26 @@ li{
 .image-section img{
     width: 600px;
     margin-top: -25px;
+}
+
+.info{
+    background-color: pink;
+    max-width: 1800px;
+    padding: 15px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.shigtavsi{
+    background-color: aliceblue;
+    max-width: 1500px;
+    height: 500px;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.shigtavsi h2 {
+    letter-spacing: 2px;
 }
